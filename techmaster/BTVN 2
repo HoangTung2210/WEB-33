@@ -1,0 +1,55 @@
+<!Doctype HTML>
+<hTML>
+<head>
+<title>Tin Tức</title>
+<meta charset="utf-8">
+</head>
+<body>
+ <Header>
+    <Div>
+        <span><img src="https://uploads-ssl.webflow.com/5c93ab3c6d7dd009139802a4/5c9f45394ccfebcee3bbd0a9_Logo.svg" alt="Logo" 
+        style="padding-left: 100;" 
+        style="padding-right: 250;"></span>
+        <a href="Dịch Vụ"></a>
+        <a href="Bảng Giá"></a>
+        <a href="Hỗ Trợ"></a>
+        <a href="Tin Tức"></a>
+        <a href="Công TY"></a>
+        <a href="Dịch vụ công trực tuyến"></a>
+        <a href="English"></a>
+    </Div>
+ </Header>
+ <hr>
+
+ <main>
+ <article>
+    <a href="Tất Cả"></a>
+    <a href="Thông Báo"></a>
+    <a href="Hóa Đơn Điện Tử"></a>
+    <a href="Mobile Sign"></a>
+    <br>
+    <br>
+    <img src="https://uploads-ssl.webflow.com/5cab710d1283e5bff20df4ca/63c6558954fe510373f310b1_IMG_5587-p-500.jpg" width="360"
+    style="padding-right: 100;" alt="">
+    <p style="color: cornflowerblue;">Thông Báo</p>
+    <p>Công ty cổ phần Công nghệ thẻ Nacencomm chính thức cho ra mắt sản phẩm chữ ký số từ xa CA2 Remote Signing.</p>
+    <p>January 17, 2023</p>
+ </article>
+</main>
+
+ <Footer style="width: 89;"background-color: black;>
+
+   <br>
+   <br>
+   <div>
+      <H3 style="width: 100;"color: cornsilk;>style="padding-left: 189;> Dịch vụ</H3>
+   </div>
+   <div>
+      <p style="width: 100;padding-left: 189px;color: cornsilk;"> Kê khai thuế</p>
+   </div>
+   <div>
+      <p style="width: 100;"padding-left: 189;color: cornsilk; >Kê khai hải quan</p>
+   </div>
+ </Footer>
+</body>
+</hTML>
